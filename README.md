@@ -3,5 +3,5 @@
 #AWS
 
 ````
-REPOSITORIO: Batatinhacopr.com
+REPOSITORIO: Batatinhacorp.com
 ````
